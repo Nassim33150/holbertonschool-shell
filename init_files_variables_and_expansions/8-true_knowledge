@@ -1,0 +1,2 @@
+#!/bin/bash
+echo RESULTAT=$TRUEKNOWLEDGE + 128
